@@ -1,14 +1,14 @@
 {
-  "name":"FLASH-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":" ibraah-Bot",
+  "description":"An easy and simple WhatsApp bot developed by Ibrahim Adams",
   "keywords":[
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
-  "repository":"https://github.com/France-King1/Flash-Md",
+  "logo":"https://telegra.ph/file/7ec4aa710486c41fa26d6.jpg",
+  "repository":"https://github.com/ibrahimaitech/ibraah",
   "succes_url":"/",
 "stack":"container",
   
@@ -47,14 +47,14 @@
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  separate them with a comma ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/7ec4aa710486c41fa26d6.jpg",
       "required":false
 
      },
     "BOT_MODE":
     {
       "description":"type public to put your bot on public mode or private to put it on private mod",
-      "value":"private",
+      "value":"public",
       "required":false
     }
         ,
@@ -79,14 +79,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "Ibrahim Adams"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254751284190"
+    "value": "254710772666"
   },
     "WARN_COUNT":
   {
