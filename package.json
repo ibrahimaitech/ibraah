@@ -1,23 +1,23 @@
 {
-  "name": "Flash-Md",
+  "name": "ibraah-Bot",
   "version": "2.0.0",
   "description": "",
-  "main": "flash.js",
+  "main": "ibraah.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node flash.js",
-    "flash": "pm2 start flash.js --attach",
+    "s": "node ibraah.js",
+    "flash": "pm2 start ibraah.js --attach",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Flash",
+    "ibraah",
     "whatsapp",
     "whatsapp-bot",
     "franceking1"
   ],
-  "author": "France King",
+  "author": " Ibrahim Adams",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
